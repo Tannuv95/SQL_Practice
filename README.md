@@ -34,7 +34,7 @@ The repository includes practice problems and queries on:
 sql_practice/
 │
 ├── Day_01/
-│ ├── problem.md        # LinkedIn SQL Interview Question 
+│   ├── problem.md        # LinkedIn SQL Interview Question 
 │   │                    # Topics: HAVING, GROUP BY, CTE
 │   │                    # Source: DataLemur
 
