@@ -29,18 +29,16 @@ The repository includes practice problems and queries on:
 * Date and string functions
 * Interview-style SQL problems
 
----
 sql_practice/
 │
 ├── Day_01/
-│   ├── problem.md        # LinkedIn SQL Interview Question
-│   │                    # Topics: HAVING, GROUP BY, CTE
-│   │                    # Source: DataLemur
+│   └── problem.md        # LinkedIn SQL Interview Question
+│                        # Topics: HAVING, GROUP BY, CTE
+│                        # Source: DataLemur
 │
 ├── progress.md           # Daily SQL interview practice tracker
 └── README.md
 
----
 
 ## 🛠️ Tools & Environment
 
