@@ -30,7 +30,6 @@ The repository includes practice problems and queries on:
 * Interview-style SQL problems
 
 ---
-
 sql_practice/
 │
 ├── Day_01/
@@ -40,8 +39,6 @@ sql_practice/
 │
 ├── progress.md           # Daily SQL interview practice tracker
 └── README.md
-
-*(File names may vary depending on practice focus.)*
 
 ---
 
