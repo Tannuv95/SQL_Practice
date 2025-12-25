@@ -31,19 +31,12 @@ The repository includes practice problems and queries on:
 
 ---
 
-## 🗂️ Repository Structure
-
-```
 sql_practice/
 │
-├── basic_queries.sql        # Fundamentals and beginner-level queries
-├── joins.sql                # Practice on different types of joins
-├── aggregation.sql          # GROUP BY, HAVING, aggregates
-├── subqueries.sql           # Nested queries
-├── cte_window_functions.sql # CTEs and window functions
-├── interview_questions.sql  # Common SQL interview problems
-└── README.md
-```
+├── Day_01/
+│ ├── problem.md        # LinkedIn SQL Interview Question 
+│   │                    # Topics: HAVING, GROUP BY, CTE
+│   │                    # Source: DataLemur
 
 *(File names may vary depending on practice focus.)*
 
