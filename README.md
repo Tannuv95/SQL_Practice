@@ -31,9 +31,9 @@ The repository includes practice problems and queries on:
 
   
 # Day 1
-  # LinkedIn SQL Interview Question
-  # Topics: HAVING, GROUP BY, CTE
-  # Source: DataLemur
+  #### LinkedIn SQL Interview Question
+  #### Topics: HAVING, GROUP BY, CTE
+  #### Source: DataLemur
 
 ## 🛠️ Tools & Environment
 
