@@ -37,12 +37,10 @@ The repository includes practice problems and queries on:
 
 ## 🛠️ Tools & Environment
 
-* SQL Dialects: **MySQL / PostgreSQL / SQLite** (queries are mostly standard SQL)
+* SQL Dialects: **MySQL** (queries are mostly standard SQL)
 * Tools used:
 
   * MySQL Workbench
-  * pgAdmin
-  * SQLite / DB Browser
   * Online platforms (LeetCode, HackerRank, StrataScratch)
 
 ---
