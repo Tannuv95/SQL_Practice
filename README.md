@@ -34,10 +34,11 @@ The repository includes practice problems and queries on:
 sql_practice/
 │
 ├── Day_01/
-│   ├── problem.md        # LinkedIn SQL Interview Question 
+│   ├── problem.md        # LinkedIn SQL Interview Question
 │   │                    # Topics: HAVING, GROUP BY, CTE
 │   │                    # Source: DataLemur
-├── progress.md           # Daily progress tracker
+│
+├── progress.md           # Daily SQL interview practice tracker
 └── README.md
 
 *(File names may vary depending on practice focus.)*
