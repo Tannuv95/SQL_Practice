@@ -38,6 +38,7 @@ sql_practice/
 │
 ├── progress.md           # Daily SQL interview practice tracker
 └── README.md
+
 ---
 
 ## 🛠️ Tools & Environment
