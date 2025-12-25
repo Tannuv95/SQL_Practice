@@ -37,6 +37,8 @@ sql_practice/
 │   ├── problem.md        # LinkedIn SQL Interview Question 
 │   │                    # Topics: HAVING, GROUP BY, CTE
 │   │                    # Source: DataLemur
+├── progress.md           # Daily progress tracker
+└── README.md
 
 *(File names may vary depending on practice focus.)*
 
