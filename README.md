@@ -30,10 +30,14 @@ The repository includes practice problems and queries on:
 * Interview-style SQL problems
 
   
-# Day 1
-  #### LinkedIn SQL Interview Question
-  #### Topics: HAVING, GROUP BY, CTE
-  #### Source: DataLemur
+## Day 1
+  LinkedIn SQL Interview Question
+  Topics: HAVING, GROUP BY, CTE
+  Source: DataLemur
+## Day 2
+  FAANG SQL Interview Question
+  Topics: Second-highest salary, Subquery, where
+  Source: DataLemur
 
 ## 🛠️ Tools & Environment
 
