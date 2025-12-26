@@ -31,13 +31,13 @@ The repository includes practice problems and queries on:
 
   
 ## Day 1
-  LinkedIn SQL Interview Question
-  Topics: HAVING, GROUP BY, CTE
-  Source: DataLemur
+  * LinkedIn SQL Interview Question
+  * Topics: HAVING, GROUP BY, CTE
+  * Source: DataLemur
 ## Day 2
-  FAANG SQL Interview Question
-  Topics: Second-highest salary, Subquery, where
-  Source: DataLemur
+  * FAANG SQL Interview Question
+  * Topics: Second-highest salary, Subquery, where
+  * Source: DataLemur
 
 ## 🛠️ Tools & Environment
 
