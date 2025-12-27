@@ -38,7 +38,10 @@ The repository includes practice problems and queries on:
   * FAANG SQL Interview Question
   * Topics: Second-highest salary, Subquery, where
   * Source: DataLemur
-
+## Day 3
+* Uber's Third Transaction
+* Topic: Window Functions (ROW_NUMBER), CTE, Subquery
+* Source: Ace the Data Science Interview / DataLemur
 ## 🛠️ Tools & Environment
 
 * SQL Dialects: **MySQL** (queries are mostly standard SQL)
