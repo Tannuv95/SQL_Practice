@@ -42,6 +42,10 @@ The repository includes practice problems and queries on:
 * Uber's Third Transaction
 * Topic: Window Functions (ROW_NUMBER), CTE, Subquery
 * Source: Ace the Data Science Interview / DataLemur
+## Day 4
+* Tesla Unfinished Parts
+* Topic: Where, IS NULL
+* Source: Ace the Data Science Interview / DataLemur
 ## 🛠️ Tools & Environment
 
 * SQL Dialects: **MySQL** (queries are mostly standard SQL)
