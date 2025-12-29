@@ -33,19 +33,24 @@ The repository includes practice problems and queries on:
 ## Day 1
   * LinkedIn SQL Interview Question
   * Topics: HAVING, GROUP BY, CTE
-  * Source: DataLemur
+  * Source: DataLemur (Easy)
 ## Day 2
   * FAANG SQL Interview Question
   * Topics: Second-highest salary, Subquery, where
-  * Source: DataLemur
+  * Source: DataLemur (Easy)
 ## Day 3
 * Uber's Third Transaction
 * Topic: Window Functions (ROW_NUMBER), CTE, Subquery
-* Source: Ace the Data Science Interview / DataLemur
+* Source: Ace the Data Science Interview / DataLemur (Easy)
 ## Day 4
 * Tesla Unfinished Parts
 * Topic: Where, IS NULL
-* Source: Ace the Data Science Interview / DataLemur
+* Source: Ace the Data Science Interview / DataLemur (Medium)
+## Day 5
+* Snapchat SQL Interview Question: Time Spent Sending vs Opening Snaps
+* Topic: CASE WHEN, Aggregation, JOIN, Percentage Calculation
+* Source: Ace the Data Science Interview / DataLemur (Medium)
+
 ## 🛠️ Tools & Environment
 
 * SQL Dialects: **MySQL** (queries are mostly standard SQL)
