@@ -44,6 +44,22 @@ Explanation:
 4. SUM aggregates total counts for each category.
 */
 
+-- ========== Alternate Solution: Using FILTER (PostgreSQL) ==========
+
+SELECT  
+    COUNT(*) FILTER (WHERE device_type = 'laptop') AS laptop_views,
+    COUNT(*) FILTER (WHERE device_type IN ('tablet', 'phone')) AS mobile_views
+FROM viewership;
+
+
+/*
+Explanation:
+- FILTER allows conditional aggregation without CASE WHEN.
+- COUNT(*) FILTER(...) counts rows that satisfy the condition.
+- More concise and readable than CASE WHEN.
+- Supported in PostgreSQL (commonly used in interviews).
+*/
+
 
 /* Example Output:
 laptop_views | mobile_views
