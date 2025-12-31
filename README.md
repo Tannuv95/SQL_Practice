@@ -50,6 +50,10 @@ The repository includes practice problems and queries on:
 * Snapchat SQL Interview Question: Time Spent Sending vs Opening Snaps
 * Topic: CASE WHEN, Aggregation, JOIN, Percentage Calculation
 * Source: Ace the Data Science Interview / DataLemur (Medium)
+## Day 6
+* NY Times SQL Interview Question: User Viewership by Device Type
+* Topic: CASE WHEN, Conditional Aggregation
+* Source: Ace the Data Science Interview / DataLemur
 
 ## 🛠️ Tools & Environment
 
